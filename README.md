@@ -5,6 +5,13 @@
 
 LUXORA AI is a web-based immersive luxury retail platform designed to explore how augmented reality and behavioural analytics can enhance digital luxury shopping. It combines interactive 3D product visualization, voice-controlled navigation, product storytelling, behavioural analytics, and ML to create an immersive luxury retail experience.
 
+<p align="center">
+  <img src="assets/luxora-home.jpeg" width="50%" alt="LUXORA AI Homepage">
+</p>
+<p align="center">
+  <img src="assets/product-view.jpeg" width="50%" alt="LUXORA AI Product Page">
+</p>
+
 </div>
 
 ## Live Project
@@ -82,6 +89,10 @@ LUXORA AI is a web-based immersive luxury retail platform designed to explore ho
 </table>
 
 ## Behavioural Analytics
+
+<p align="center">
+  <img src="assets/analytics dashboard.jpeg" width="70%" alt="LUXORA AI Analytics Dashboard">
+</p>
 
 <b> The system tracks interactions such as: </b> <code>Product Rotation</code> · <code>Zoom</code> · <code>Product Switching</code> ·
   <code>Journey Views</code> ·
